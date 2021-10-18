@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Ridhi Nair",
+    "specialist": "Emergency medicine",
+    "rating": "4.1",
+    "img": "https://i.ibb.co/5jV6ZwG/01-100x100.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Johnson Donald",
+    "specialist": "Dermatology",
+    "rating": "4.2",
+    "img": "https://i.ibb.co/QJnVmJy/1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Larry Guerrero",
+    "specialist": "Obstetrics and gynecology ",
+    "rating": "4.5",
+    "img": "https://i.ibb.co/JtGWypn/02-100x100.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Flores Emily",
+    "specialist": "Anesthesiology",
+    "rating": "4.7",
+    "img": "https://i.ibb.co/jbc9Dcr/3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Theresa Morris",
+    "specialist": "International Medicine",
+    "rating": "4.2",
+    "img": "https://i.ibb.co/c2W5c3L/18-100x100.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Jones Sophie",
+    "specialist": "Fitness Expert",
+    "rating": "4.1",
+    "img": "https://i.ibb.co/ZTf5M2J/19-100x100.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ethan King",
+    "specialist": "Dermatology",
+    "rating": "4.1",
+    "img": "https://i.ibb.co/r2tmvbv/17-100x100.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Charlie Martin",
+    "specialist": "Diagnostic radiology ",
+    "rating": "4.6",
+    "img": "https://i.ibb.co/ByY5SkQ/16-100x100.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Harriso Robinson",
+    "specialist": "Diagnostic radiology",
+    "rating": "4.9",
+    "img": "https://i.ibb.co/DLfkv4K/06-100x100.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Steven Ford",
+    "specialist": "Anesthesiology",
+    "rating": "4.8",
+    "img": "https://i.ibb.co/9W3Tg2Y/15-100x100.jpg"
+  }
+]
